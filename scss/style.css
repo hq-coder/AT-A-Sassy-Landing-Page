@@ -89,25 +89,6 @@
     font-size: 50px;
     line-height: 1.2;
   }
-  .p-1 {
-    padding: 1rem;
-  }
-  
-  .py-1 {
-    padding: 1rem 0;
-  }
-  
-  .m-2 {
-    margin: 2rem;
-  }
-  
-  .my-2 {
-    margin: 2rem 0;
-  }
-  
-  .p-2 {
-    padding: 2rem;
-  }
   
   .m-1 {
     margin: 1rem;
@@ -160,6 +141,15 @@
   .m-4 {
     margin: 4rem;
   }
+  
+  .my-4 {
+    margin: 4rem 0;
+  }
+  
+  .p-4 {
+    padding: 4rem;
+  }
+  
   .py-4 {
     padding: 4rem 0;
   }
@@ -178,16 +168,4 @@
   
   .py-5 {
     padding: 5rem 0;
-  }
-  
-  
-  .my-4 {
-    margin: 4rem 0;
-  }
-  
-  .p-4 {
-    padding: 4rem;
-  }
-  
-
-  /*# sourceMappingURL=style.css.map */
+  }/*# sourceMappingURL=style.css.map */
